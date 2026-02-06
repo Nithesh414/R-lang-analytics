@@ -1,0 +1,5 @@
+spend = c(20,25,30,35, 15, 18, 22,28)
+sp<-sort(spend)
+sold = c(400,480,550,650,300,360, 420, 520)
+a<-(sort(sold))
+plot(spend,sold,type="p",pch=17,lwd=1)
