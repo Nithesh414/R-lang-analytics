@@ -1,7 +1,5 @@
 df<-read.csv("C:/Users/Nithesh/Downloads/Play.csv")
 
-df
-
 df<-df[-(1:10),]
 data<-data.frame(
   Outlook="sunny",
