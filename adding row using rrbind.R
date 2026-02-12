@@ -1,4 +1,4 @@
-df<-read.csv("C:/Users/Nithesh/Downloads/Play.csv")
+<-read.csv("C:/Users/Nithesh/Downloads/Play.csv")
 
 df<-df[-(1:10),]
 data<-data.frame(
