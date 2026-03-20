@@ -1,6 +1,5 @@
-
-if (!require(mlbench)) install.packages("mlbench")
-if (!require(randomForest)) install.packages("randomForest")
+install.packages("mlbench")
+install.packages("randomForest")
 
 library(mlbench)
 library(randomForest)
